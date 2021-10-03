@@ -1,17 +1,21 @@
-import logo from './logo.svg';
+import clean from './clean.jpeg';
+import polluted from './polluted.jpeg'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <div> 
+        <img src={polluted}   className="gallery-grid" style={{}} alt="logo" />
+        <img src={clean}   className="gallery-grid" style={{}} alt="logo" />
+        </div>
         <p>
-          Screw NASA HACKATHON
+          Hi
         </p>
         <a
           className="App-link"
-          href="https://youtube.com"
+          href="https://"
           target="_blank"
           rel="noopener noreferrer"
         >

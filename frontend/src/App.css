@@ -7,6 +7,18 @@
   pointer-events: none;
 }
 
+.gallery-grid {
+  display: flex;
+  flex-direction: column;
+flex-wrap: wrap;
+justify-content: space-between;
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+  margin-top: 0;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
