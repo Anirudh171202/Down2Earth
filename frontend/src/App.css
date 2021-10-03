@@ -40,6 +40,8 @@ ul {
 
 .App-link {
   color: #61dafb;
+  font-size: 18px;
+  position: 'center';
 }
 
 @keyframes App-logo-spin {
