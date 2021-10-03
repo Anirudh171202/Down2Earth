@@ -8,10 +8,13 @@ body {
   margin-top: 0;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+ }
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: 'Montserrat',source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-
 
