@@ -11,7 +11,6 @@ function About() {
             Importance of River Ganga
             </h1> 
             <br />
-            
             <br />
 
             <p className="home-about-body" >

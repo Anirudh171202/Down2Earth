@@ -3,13 +3,15 @@ import { Container, Row, Col } from "react-bootstrap";
 import "./instructions.css"
 function Instructions() {
   return (
-    <Container fluid className="instructions" id="about">
+    <Container fluid className="abouti">
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
              <h1 style={{ fontSize: "2.2em" }}>
              About Us
             </h1> 
+            <br />
+            <br />
 
             <p className="home-about-body" >
             Hello! We're Anh, Anirudh, Arnav, Simran. We're freshman CS Majors at the University of Massachusetts, Amherst near Boston.
